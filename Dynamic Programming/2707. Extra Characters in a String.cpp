@@ -1,5 +1,24 @@
 class Solution {
 public:
+int minExtraChar(string s, vector<string>& d) {
+int n = s.size();
+vector<int> dp(n + 1, 1e9);
+dp[n] = 0;
+for (int i = n - 1; i >= 0; i--) {
+    dp[i] = dp[i + 1] + 1;
+    for (auto &e: d) {
+        if (i + e.size() <= n and s.size() >= e.size() and s.substr(i,  e.size()) == e) {
+            dp[i] = min(dp[i], dp[i + e.size()]);
+        }
+    }
+}
+return dp[0];
+}
+};
+
+
+class Solution {
+public:
 struct Node {
     Node *links[26];
     bool flag = false;
