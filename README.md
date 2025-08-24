@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [3893-generate-tag-for-video-caption](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3893-generate-tag-for-video-caption) |
 | [3934-coupon-code-validator](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3934-coupon-code-validator) |
 ## Sorting
 |  |
@@ -23,4 +24,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
+## Simulation
+|  |
+| ------- |
+| [3893-generate-tag-for-video-caption](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3893-generate-tag-for-video-caption) |
 <!---LeetCode Topics End-->
