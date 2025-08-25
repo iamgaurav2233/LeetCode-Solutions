@@ -11,15 +11,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3934-coupon-code-validator](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3934-coupon-code-validator) |
 ## String
 |  |
 | ------- |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3893-generate-tag-for-video-caption](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3893-generate-tag-for-video-caption) |
 | [3934-coupon-code-validator](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3934-coupon-code-validator) |
 ## Sorting
 |  |
 | ------- |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3934-coupon-code-validator](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3934-coupon-code-validator) |
 ## Math
 |  |
@@ -31,4 +34,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3893-generate-tag-for-video-caption](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3893-generate-tag-for-video-caption) |
+## Greedy
+|  |
+| ------- |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+## Counting
+|  |
+| ------- |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 <!---LeetCode Topics End-->
