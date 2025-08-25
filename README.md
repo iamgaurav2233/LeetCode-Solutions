@@ -14,11 +14,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2486-most-frequent-even-element](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/2486-most-frequent-even-element) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3934-coupon-code-validator](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3934-coupon-code-validator) |
 ## String
 |  |
 | ------- |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3893-generate-tag-for-video-caption](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3893-generate-tag-for-video-caption) |
 | [3934-coupon-code-validator](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3934-coupon-code-validator) |
 ## Sorting
@@ -45,4 +47,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2486-most-frequent-even-element](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/2486-most-frequent-even-element) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
