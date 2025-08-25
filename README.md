@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3879-find-minimum-log-transportation-cost](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3879-find-minimum-log-transportation-cost) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Simulation
 |  |
