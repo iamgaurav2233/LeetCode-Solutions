@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2486-most-frequent-even-element](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/2486-most-frequent-even-element) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3934-coupon-code-validator](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3934-coupon-code-validator) |
 ## Hash Table
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3830-find-closest-person](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3830-find-closest-person) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3859-maximum-product-of-two-digits](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3879-find-minimum-log-transportation-cost) |
