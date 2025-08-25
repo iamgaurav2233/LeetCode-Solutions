@@ -6,11 +6,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [2486-most-frequent-even-element](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/2486-most-frequent-even-element) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3934-coupon-code-validator](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3934-coupon-code-validator) |
 ## Hash Table
 |  |
 | ------- |
+| [2486-most-frequent-even-element](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/2486-most-frequent-even-element) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3934-coupon-code-validator](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3934-coupon-code-validator) |
 ## String
@@ -41,5 +43,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [2486-most-frequent-even-element](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/2486-most-frequent-even-element) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 <!---LeetCode Topics End-->
