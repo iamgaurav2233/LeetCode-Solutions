@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [3676-smallest-number-with-all-set-bits](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3859-maximum-product-of-two-digits](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3859-maximum-product-of-two-digits) |
@@ -74,4 +75,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3676-smallest-number-with-all-set-bits](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 <!---LeetCode Topics End-->
