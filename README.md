@@ -79,4 +79,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3676-smallest-number-with-all-set-bits](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/0207-course-schedule) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/iamgaurav2233/LeetCode-Solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
